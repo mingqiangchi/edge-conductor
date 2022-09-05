@@ -4,6 +4,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 esp:
-  rel_url: "https://github.com/intel/Edge-Software-Provisioner/archive/refs/tags/v2.5.4.tar.gz"
-  rel_sha256: "21eea3c91bf6ec60ae756e18e0cb05379d68641fe563baf641ba11d5a1b6d044"
-  rel_version: "2.5.4"
+  rel_url: "https://github.com/intel/Edge-Software-Provisioner/archive/refs/tags/v3.0.tar.gz"
+  rel_sha256: "eb90e86279db40d4a0c8e87d7452b06127ed3a4d71b20c75ae1b42be35b6516b"
+  rel_version: "3.0"
